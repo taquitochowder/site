@@ -2,7 +2,6 @@
 title: "Recommended Stuff"
 date: 2020-09-03T23:23:10-04:00
 cover: "https://source.unsplash.com/SDa3foPsj5o"
-draft: true
 ---
 
 Here you'll find stuff I recommend.
