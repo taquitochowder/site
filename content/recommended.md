@@ -40,6 +40,11 @@ Always make sure you're using HTTPS.
 If a website doesn't support it,
 you probably shouldn't visit it.
 
+**Update**: Firefox 83 added an 
+[HTTPS-only mode](https://support.mozilla.org/en-US/kb/https-only-prefs),
+so the extension isn't required.
+Still useful to have on other browsers.
+
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 
 A nice extension to combo with uBlock Origin for extra privacy.
