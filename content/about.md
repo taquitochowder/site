@@ -6,8 +6,8 @@ draft: false
 ---
 
 Hi, I'm Thakee Chowdhury,
-currently a senior Computer Science student
-at Rutgers University.
+a Rutgers Computer Science gradute who is
+currently a developer for TD Securities.
 
 The main goal of this site is to
 establish my place on the internet and
