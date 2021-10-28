@@ -40,9 +40,9 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Thakee Chowdhury"
-    subtitle = "Undergraduate Computer Science Student @ Rutgers University"
+    subtitle = "Developer @ TD Securities"
     owner = "Thakee Chowdhury"
-    keywords = "homepage, blog"
+    keywords = "homepage, blog, devlog, developer, code, computer science"
     copyright = "© 2021 Thakee Chowdhury"
     menuMore = "Show more"
     readMore = "Read more"
