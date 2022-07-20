@@ -38,3 +38,6 @@ hugo.linux
 
 ### node ###
 /node_modules/
+
+### hugo ###
+.hugo_build.lock
