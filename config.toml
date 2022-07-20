@@ -40,10 +40,10 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Thakee Chowdhury"
-    subtitle = "Developer @ TD Securities"
+    subtitle = "Software Engineer @ Yext"
     owner = "Thakee Chowdhury"
     keywords = "homepage, blog, devlog, developer, code, computer science"
-    copyright = "© 2021 Thakee Chowdhury"
+    copyright = "© 2022 Thakee Chowdhury"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

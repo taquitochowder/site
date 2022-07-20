@@ -7,7 +7,7 @@ draft: false
 
 Hi, I'm Thakee Chowdhury,
 a Rutgers Computer Science gradute who is
-currently a developer for TD Securities.
+currently a software engineer for Yext.
 
 The main goal of this site is to
 establish my place on the internet and
